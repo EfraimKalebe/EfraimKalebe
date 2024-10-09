@@ -1,12 +1,7 @@
 
 <div align= "center">
-  Olá, me chamo Efraim
+  <h2>Olá, me chamo Efraim</h2>
   </div>
-
-
-###
-
-###
 
 ###
 <p align="center"> Sou um Desenvolvedor de Software apaixonado por criar soluções impactantes, desde APIs robustas até sistemas web e desktop. Foco em experiência do usuário e performance otimizada. Combinando habilidades técnicas e colaborativas, entrego projetos de alta qualidade. Sempre em busca de inovação, aplico desenvolvimento ágil e melhoria contínua em tudo o que faço.</p>&nbsp;
