@@ -1,6 +1,6 @@
 
 <div align= "center">
-  <h2>Olá, me chamo Efraim</h2>
+  <h1>Olá, me chamo Efraim</h1>
   </div>
 
 ###
